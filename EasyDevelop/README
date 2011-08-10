@@ -1,0 +1,7 @@
+Easy Develop by Owen.
+
+Drag the "Drag me" button to a flash element then release it.
+you can now modify the elements properties or select it's parents/children.
+
+Know issues:
+- red square is not always drawn around the elements boundaries
